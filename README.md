@@ -1,15 +1,11 @@
 ![RukshanFdo](assets/TopImage.gif)
-<a href="https://instagram.com/rukfdo1" title="Instagram Profile"><img src="https://raw.githubusercontent.com/RukshanFdo/RukshanFdo/main/assets/instagram-icon.png" alt="Instagram" width="32" height="32"></a>
+
 <p align="center">
-	<a href="" target="_blank"><img src=""/></a>
-	&#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="www.linkedin.com/in/mayeul-rukshan-fernando" target="_blank"><img src="https://res.cloudinary.com/pasindua/image/upload/v1640992394/GitHub%20Social/linkedin_ughesz.png"/></a>
-	&#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="" target="_blank"><img src="https://res.cloudinary.com/pasindua/image/upload/v1640992394/GitHub%20Social/twitter_alk6bs.png"/></a>
-	&#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="https://instagram.com/rukfdo1" target="_blank"><img src="https://res.cloudinary.com/pasindua/image/upload/v1640992394/GitHub%20Social/instagram_hbtmrq.png"/></a>
-	&#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="https://api.whatsapp.com/send?phone=94768839442" target="_blank"><img src="https://res.cloudinary.com/pasindua/image/upload/v1640992394/GitHub%20Social/whatsapp_msjznk.png"/></a>
+	<a href="https://instagram.com/rukfdo1" title="Web"><img src="assets/LogoIcons/web.png" alt="Web" width="32" height="32"></a>
+	<a href="https://instagram.com/rukfdo1" title="LinkedIn"><img src="assets/LogoIcons/linkedin.png" alt="LinkedIn" width="32" height="32"></a>
+	<a href="https://instagram.com/rukfdo1" title="Twitter"><img src="assets/LogoIcons/twitter.png" alt="Twitter" width="32" height="32"></a>
+	<a href="https://instagram.com/rukfdo1" title="Instagram"><img src="assets/LogoIcons/instagram.png" alt="Instagram" width="32" height="32"></a>
+	<a href="https://api.whatsapp.com/send?phone=94768839442" title="WhatsApp"><img src="assets/LogoIcons/whatsapp.png" alt="WhatsApp" width="32" height="32"></a>
 </p>
 
 
