@@ -179,14 +179,19 @@
 </p>
 
 <p align="center">
-	<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RukshanFdo&theme=jolly&show_icons=true&line_height=27&count_private=true" alt="RukshanFdo's GitHub Stats" />
-</p>
-
+ <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=RukshanFdo&count_private=true&show_icons=true&theme=jolly&rank_icon=github&border_radius=10" alt="readme stats" />
+ </p>
+ 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RukshanFdo&theme=jolly" />
 </p>
 
-![snake gif](https://github.com/RukshanFdo/RukshanFdo/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+    <img src="https://github.com/RukshanFdo/RukshanFdo/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=RukshanFdo)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
 	<img src="assets/wave.svg">
