@@ -186,7 +186,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RukshanFdo&theme=jolly" />
 </p>
 
-
+![snake gif](https://github.com/RukshanFdo/RukshanFdo/blob/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
 	<img src="assets/wave.svg">
