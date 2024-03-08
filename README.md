@@ -1,16 +1,7 @@
-<h1 align="center">
-	Welcome to Rukshan Fernando's Profile!
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
-
+![RukshanFdo](assets/TopImage.gif)
+<a href="https://instagram.com/rukfdo1" title="Instagram Profile"><img src="https://raw.githubusercontent.com/RukshanFdo/RukshanFdo/main/assets/instagram-icon.png" alt="Instagram" width="32" height="32"></a>
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?color=%23B150E2&size=60&center=true&vCenter=true&width=1500&height=80&lines=I+am+Inventor;Innovative+Thinker;Always+Learning+New+Things;Love+%E2%9D%A4+Coding;Undergraduate+Software+Engineer+;Love+%E2%9D%A4+Machine+Learning+%F0%9F%A4%96;Love+%E2%9D%A4+Electronics%2C+Robotics+and+IoT">
-</p>
-
-![RukshanFdo](https://res.cloudinary.com/image/upload/r_11/v1624278078/banner_1500x500_xjbxmk.png)
-
-<p align="center">
-	<a href="" target="_blank"><img src="https://res.cloudinary.com/pasindua/image/upload/v1648330160/GitHub%20Social/website_pthc85.png"/></a>
+	<a href="" target="_blank"><img src=""/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;
 	<a href="www.linkedin.com/in/mayeul-rukshan-fernando" target="_blank"><img src="https://res.cloudinary.com/pasindua/image/upload/v1640992394/GitHub%20Social/linkedin_ughesz.png"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;
@@ -20,6 +11,12 @@
 	&#8287;&#8287;&#8287;&#8287;&#8287;
 	<a href="https://api.whatsapp.com/send?phone=94768839442" target="_blank"><img src="https://res.cloudinary.com/pasindua/image/upload/v1640992394/GitHub%20Social/whatsapp_msjznk.png"/></a>
 </p>
+
+
+<p align="center">
+	<img src="https://readme-typing-svg.herokuapp.com?color=%23B150E2&size=60&center=true&vCenter=true&width=1500&height=80&lines=I+am+Inventor;Innovative+Thinker;Always+Learning+New+Things;Love+%E2%9D%A4+Coding;Undergraduate+Software+Engineer+;Love+%E2%9D%A4+Machine+Learning+%F0%9F%A4%96;Love+%E2%9D%A4+Electronics%2C+Robotics+and+IoT">
+</p>
+
 <h2 align="center">Profile Views</h2>
 <p align="center">
 	<img src="https://profile-counter.glitch.me/{RukshanFdo}/count.svg">
