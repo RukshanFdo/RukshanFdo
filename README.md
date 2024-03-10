@@ -1,60 +1,58 @@
 ![RukshanFdo](assets/TopImage.gif)
 
 <p align="center">
-	<a href="https://instagram.com/rukfdo1" title="Web"><img src="assets/LogoIcons/web.png" alt="Web" width="32" height="32"></a>
-	<a href="https://instagram.com/rukfdo1" title="LinkedIn"><img src="assets/LogoIcons/linkedin.png" alt="LinkedIn" width="32" height="32"></a>
-	<a href="https://instagram.com/rukfdo1" title="Twitter"><img src="assets/LogoIcons/twitter.png" alt="Twitter" width="32" height="32"></a>
-	<a href="https://instagram.com/rukfdo1" title="Instagram"><img src="assets/LogoIcons/instagram.png" alt="Instagram" width="32" height="32"></a>
-	<a href="https://api.whatsapp.com/send?phone=94768839442" title="WhatsApp"><img src="assets/LogoIcons/whatsapp.png" alt="WhatsApp" width="32" height="32"></a>
+	<a href="https://instagram.com/rukfdo1" title="Web"><img src="assets/LogoIcons/web.png" alt="Web" width="32" height="32" ></a> &nbsp;
+	<a href="mailto:rukshanfernando234@gmail.com" title="email"><img src="assets/LogoIcons/gmail.png" alt="Web" width="32" height="32"></a> &nbsp;
+	<a href="www.linkedin.com/in/mayeul-rukshan-fernando" title="LinkedIn"><img src="assets/LogoIcons/linkedin.png" alt="LinkedIn" width="32" height="32"></a> &nbsp;
+	<a href="https://twitter.com/Rukshan2019784" title="Twitter"><img src="assets/LogoIcons/twitter.png" alt="Twitter" width="32" height="32"></a> &nbsp;
+	<a href="https://instagram.com/rukfdo1" title="Instagram"><img src="assets/LogoIcons/instagram.png" alt="Instagram" width="32" height="32"></a> &nbsp;
+	<a href="https://api.whatsapp.com/send?phone=94768839442" title="WhatsApp"><img src="assets/LogoIcons/whatsapp.png" alt="WhatsApp" width="32" height="32"></a> &nbsp;
 </p>
-
-
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?color=%23B150E2&size=60&center=true&vCenter=true&width=1500&height=80&lines=I+am+Inventor;Innovative+Thinker;Always+Learning+New+Things;Love+%E2%9D%A4+Coding;Undergraduate+Software+Engineer+;Love+%E2%9D%A4+Machine+Learning+%F0%9F%A4%96;Love+%E2%9D%A4+Electronics%2C+Robotics+and+IoT">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Martian+Mono&weight=600&size=48&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=1500&height=200&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Software+Engineer+Undergraduate+%F0%9F%8E%93;Passionate+%F0%9F%92%A1+Tech+Enthusiast;Always+Learning+New+Things+%F0%9F%93%9A%F0%9F%8C%9F;Passionate+%F0%9F%92%A1+Tech+Enthusiast;Effective+%F0%9F%9A%80+IT+Project+Manager;Love+%E2%9D%A4%EF%B8%8F+Coding+" alt="Typing SVG" />
 </p>
 
 <h2 align="center">Profile Views</h2>
 <p align="center">
+	<b>Glad To See You Here</b>&nbsp;
 	<img src="https://profile-counter.glitch.me/{RukshanFdo}/count.svg">
+	<b>Profile Visitors!</b>   
 </p>
 
 <p align="center">
-	<a href="mailto:rukshanfernando234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-	&#8287;&#8287;
-	<a href="https://gitlab.com/RukshanFdo" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
-	&#8287;&#8287;
-	<a href="" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-</p>
-
-<p align="left">
   <a href="https://github.com/RukshanFdo?tab=repositories&sort=stargazers" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
   <a href="https://gist.github.com/RukshanFdo" target="_blank"><img alt="All Gists" title="All Gists" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Gists-2962FF?style=for-the-badge&logoColor=white&logo=gist"/></a>
 </p>
+
+## Talking about Personal Stuffs
+<div style="align-self: flex-end;">
+    <img style="width: 40%; max-width: 150px;" alt="Github" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
+ </div>
+    <ul>
+	    <li>👨‍🎓 &nbsp; Final Year Software Engineering Undergraduate at University of Westminster</li>
+            <li>👨‍💼 &nbsp; Part-time IT Project Manager at Elysian Memorials</li>
+            <li>🛠️ &nbsp; Former Software Engineering Intern @ WSO2 (APIM Team)</li>
+            <li>💼 &nbsp; Dedicated Volunteer at IEEE and IEEE Computer Society</li>
+            <li>👨‍💻 &nbsp; Projects available on <a href="https://github.com/RukshanFdo">Github</a></li>
+            <li>💬 &nbsp; Ask me about anything <a href="https://github.com/RukshanFdo/RukshanFdo/issues">here</a>! I am happy to help</li>
+    </ul>
 
 ## 🛠️ My favorite Tools
 
 ### 👨‍💻 Programming languages
 
 <p align="center">
-	<a href="https://github.com/search?q=user%3ApAkalpa+language%3Ac"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3ApAkalpa+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3ApAkalpa+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3ApAkalpa+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3ApAkalpa+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3ApAkalpa+language%3Ago"><img alt="GoLang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3ARukshanFdo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+	<a href="https://github.com/search?q=user%3ARukshanFdo+language%3Ajava"><img alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3RukshanFdo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3ApAkalpa+language%3Ajava"><img alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3ApAkalpa+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-	<a href="https://github.com/search?q=user%3ApAkalpa+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3ApAkalpa+language%3Amd"><img alt="MarkDown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3ApAkalpa+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3ApAkalpa+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-	<a href="https://github.com/search?q=user%3ApAkalpa+language%3AR"><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3ApAkalpa+language%3Ars"><img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3ApAkalpa+language%3Aswift"><img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3ApAkalpa+language%3Ash"><img alt="ShellScript" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3ApAkalpa+language%3Ats"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
-	<!-- <a href="https://github.com/search?q=user%3ApAkalpa+language%3A"><img alt="" src=""></a> -->
+	<a href="https://github.com/search?q=user%3ARukshanFdo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3ARukshanFdo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+	<a href="https://github.com/search?q=user%3ARukshanFdo+language%3Ats"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3ARukshanFdo+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3ARukshanFdo+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3ARukshanFdo+language%3Aswift"><img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3ARukshanFdo+language%3AR"><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"></a>
+	<!-- <a href="https://github.com/search?q=user%3ARukshanFdo+language%3A"><img alt="" src=""></a> -->
 </p>
 
 ### 🧰 Frameworks and libraries
