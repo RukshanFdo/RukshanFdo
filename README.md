@@ -5,6 +5,7 @@
 	<a href="mailto:rukshanfernando234@gmail.com" title="email"><img src="assets/LogoIcons/gmail.png" alt="Web" width="32" height="32"></a> &nbsp;
 	<a href="www.linkedin.com/in/mayeul-rukshan-fernando" title="LinkedIn"><img src="assets/LogoIcons/linkedin.png" alt="LinkedIn" width="32" height="32"></a> &nbsp;
 	<a href="https://twitter.com/Rukshan2019784" title="Twitter"><img src="assets/LogoIcons/twitter.png" alt="Twitter" width="32" height="32"></a> &nbsp;
+	<a href="https://www.facebook.com/rukshan.fernando.12382?mibextid=ZbWKwL" title="Facebook"><img src="assets/LogoIcons/facebook.png" alt="Twitter" width="32" height="32"></a> &nbsp;
 	<a href="https://instagram.com/rukfdo1" title="Instagram"><img src="assets/LogoIcons/instagram.png" alt="Instagram" width="32" height="32"></a> &nbsp;
 	<a href="https://api.whatsapp.com/send?phone=94768839442" title="WhatsApp"><img src="assets/LogoIcons/whatsapp.png" alt="WhatsApp" width="32" height="32"></a> &nbsp;
 </p>
@@ -148,7 +149,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=RukshanFdo)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
-	<img src="assets/wave.svg">
+	<img src="assets/BottomImage.gif">
 </p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RukshanFdo&langs_count=9)](https://github.com/RukshanFdo/github-readme-stats)
 ![R.F's GitHub stats](https://github-readme-stats.vercel.app/api?username=RukshanFdo&theme=jolly&show_icons=true) -->
