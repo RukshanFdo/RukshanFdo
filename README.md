@@ -1,7 +1,7 @@
 ![RukshanFdo](assets/TopImage.gif)
 
 <p align="center">
-	<a href="https://instagram.com/rukfdo1" title="Web"><img src="assets/LogoIcons/web.png" alt="Web" width="32" height="32" ></a> &nbsp;
+	<a href= "https://bit.ly/RukshanFernando" title="Web"><img src="assets/LogoIcons/web.png" alt="Web" width="32" height="32" ></a> &nbsp;
 	<a href="mailto:rukshanfernando234@gmail.com" title="email"><img src="assets/LogoIcons/gmail.png" alt="Web" width="32" height="32"></a> &nbsp;
 	<a href="www.linkedin.com/in/mayeul-rukshan-fernando" title="LinkedIn"><img src="assets/LogoIcons/linkedin.png" alt="LinkedIn" width="32" height="32"></a> &nbsp;
 	<a href="https://twitter.com/Rukshan2019784" title="Twitter"><img src="assets/LogoIcons/twitter.png" alt="Twitter" width="32" height="32"></a> &nbsp;
