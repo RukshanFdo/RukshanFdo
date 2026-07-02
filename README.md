@@ -1,80 +1,72 @@
-# Mayeul Rukshan Fernando
+# 👋 Mayeul Rukshan Fernando
 
-**IT Project Manager | Fintech & Banking Technology | Product Delivery Leader | Cybersecurity (In Training)**
+**IT Project Manager | Fintech & Banking Technology | Product Delivery | Cybersecurity (In Training)**
 
 📍 Dubai Internet City, UAE  
-⚡ Immediate Joiner  
-📧 rukshanfernando345@gmail.com  
-🔗 LinkedIn: linkedin.com/in/mayeul-rukshan-fernando  
-💻 GitHub: github.com/RukshanFdo  
+📧 Email: rukshanfernando345@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/mayeul-rukshan-fernando](https://linkedin.com/in/mayeul-rukshan-fernando)  
+💻 GitHub: [github.com/RukshanFdo](https://github.com/RukshanFdo)
 
 ---
 
-## Executive Summary
+## 🚀 About Me
 
-IT Project Manager with ~4 years of experience delivering **banking, fintech, and enterprise technology projects** across regulated environments.
+IT Project Manager with experience across **banking, fintech, and enterprise software delivery**.
 
-Background combines **software engineering (WSO2)** with **banking technology delivery at Nations Trust Bank**, including core banking integrations, digital transformation programs, and payment system implementations.
+I started in software engineering at **WSO2**, where I worked on enterprise developer tooling, and transitioned into **IT Project Management**, delivering real-world banking systems at **Nations Trust Bank**.
 
-Strong ability to bridge **business, engineering, compliance, and stakeholder teams** to deliver high-impact systems in complex environments.
+My focus is on **bridging business, engineering, and compliance** to deliver complex technology projects in regulated environments.
 
-Currently expanding into **Cybersecurity & Networking (CCNA, CCNP, CEH, Security+)**.
+Currently based in Dubai, expanding into **Cybersecurity and Networking (CCNA / CCNP / CEH / Security+)**.
 
 ---
 
-## Core Expertise
+## 💼 What I Do Best
 
-- IT Project & Product Delivery (Agile / Hybrid / Waterfall)
+- IT Project & Product Delivery (Agile / Hybrid environments)
 - Banking & Fintech Systems Implementation
-- Stakeholder & Vendor Management
-- Regulatory Compliance (PCI DSS, KYC, Audit Readiness)
-- Risk & Governance Management
-- Technical Documentation (BRD / FRD / Reports)
+- Stakeholder & Vendor Coordination
+- Regulatory & Compliance-driven Delivery (PCI DSS, KYC)
+- Risk Management & Issue Resolution
+- Technical Documentation & Reporting (BRD / FRD)
 
 ---
 
-## Experience
+## 🏦 Selected Experience
 
-### IT Project Manager — Nations Trust Bank  
-**2024 – 2026 | Colombo, Sri Lanka**
+### Nations Trust Bank (NTB)
+Delivered and supported key digital transformation initiatives:
 
-- Supported **HSBC portfolio migration (large-scale banking transition)**
-- Led coordination of **Google Pay integration (Amex & Mastercard ecosystem)**
-- Delivered **EVKYC digital onboarding transformation**
-- Contributed to **PCI DSS certification & SIEM implementation**
-- Managed project governance using **Azure DevOps, MS Project, Planner**
-- Coordinated across engineering, compliance, legal, and vendor teams
-
----
-
-### IT Project Manager (Contract) — ElysianMemorial  
-**2023 – 2024 | Remote**
-
-- Led end-to-end delivery of an **AI-powered platform**
-- Managed engineering team (Next.js, Express.js, Azure)
-- Owned roadmap planning, sprint execution, and release delivery
-- Delivered product within scope, timeline, and budget
+- HSBC portfolio migration (large-scale banking transition support)
+- Google Pay integration (Amex & Mastercard ecosystem)
+- EVKYC digital onboarding system rollout
+- PCI DSS compliance & SIEM implementation support
+- Cross-team coordination across IT, compliance, legal & vendors
 
 ---
 
-### Software Engineering Intern — WSO2  
-**2022 – 2023 | Dubai Internet City**
+### ElysianMemorial (AI Platform)
+- Led end-to-end delivery of an AI-powered product
+- Managed engineering team using Next.js, Express.js, Azure
+- Owned sprint planning, roadmap, and release execution
 
-- Built enterprise developer tooling for integration platform (VS Code)
+---
+
+### WSO2 (Software Engineering)
+- Built enterprise developer tooling for integration systems
 - Designed UI/UX flows and system architecture
-- Resolved versioning and stability issues in production systems
-- Collaborated on enterprise-scale software development
+- Worked on debugging, stability, and product improvements
 
 ---
 
-## Education
+## 🎓 Education
 
-**BEng Software Engineering** — University of Westminster  
-**IT Diploma (Distinction)** — Informatics Institute of Technology (IIT)
+- BEng Software Engineering — University of Westminster  
+- IT Diploma (Distinction) — Informatics Institute of Technology (IIT)
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 - Google Project Management Certificate  
 - PMI Project Management Fundamentals  
@@ -83,7 +75,9 @@ Currently expanding into **Cybersecurity & Networking (CCNA, CCNP, CEH, Security
 
 ---
 
-## Current Focus (Cybersecurity Path)
+## 🔐 Currently Learning
+
+Cybersecurity & Networking:
 
 - CCNA (Cisco Networking)
 - CCNP (Advanced Networking)
@@ -92,55 +86,24 @@ Currently expanding into **Cybersecurity & Networking (CCNA, CCNP, CEH, Security
 
 ---
 
-## Key Projects
+## 🧠 Core Strengths
 
-- HSBC Portfolio Migration — Banking transformation program  
-- Google Pay Integration — Payment ecosystem implementation  
-- EVKYC Digital Onboarding — Paperless banking transformation  
-- PCI DSS Compliance Support — Payment security certification  
-- SIEM Implementation — Security monitoring system rollout  
-- ElysianMemorial AI Platform — Full-stack product delivery  
-- WSO2 Developer Tooling — Enterprise integration editor  
+- Delivering complex enterprise projects in regulated environments
+- Translating business needs into technical execution
+- Strong coordination across cross-functional teams
+- Risk-first approach to delivery
+- Clear, structured technical communication
 
 ---
 
-## Leadership & Recognition
+## 📌 Focus Areas
 
-- Vice President — IEEE Computer Society (IIT)
-- IEEE Xtreme Ambassador — Sri Lanka Section
-- Final Year Representative — IIT
-- Finalist — Global TADHack 2021
+Banking Technology • Fintech Systems • Digital Transformation • Secure Infrastructure • Product Delivery
 
 ---
 
-## Tech Stack
-
-**Tools:** Azure DevOps, Jira, MS Project, Trello  
-**Languages:** JavaScript, TypeScript, Python, Java  
-**Frameworks:** React, Next.js, Express.js  
-**Cloud:** Azure, Firebase  
-**Security (Training):** SIEM, PCI DSS, Networking fundamentals  
-
----
-
-## Professional Focus
-
-I specialize in delivering **complex, regulated, high-impact technology projects** where precision, governance, and execution matter.
-
-Currently open to opportunities in:
-- IT Project Management  
-- Product Ownership  
-- Fintech / Banking Technology  
-- Digital Transformation Programs  
-
----
-
-## Contact
+## 📫 Contact
 
 📧 Email: rukshanfernando345@gmail.com  
-🔗 LinkedIn: linkedin.com/in/mayeul-rukshan-fernando  
-💻 GitHub: github.com/RukshanFdo  
-
----
-
-⭐ *Open to opportunities — based in Dubai, UAE*
+🔗 LinkedIn: [linkedin.com/in/mayeul-rukshan-fernando](https://linkedin.com/in/mayeul-rukshan-fernando)  
+💻 GitHub: [github.com/RukshanFdo](https://github.com/RukshanFdo)
