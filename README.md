@@ -61,7 +61,7 @@ Delivered and supported key digital transformation initiatives:
 
 ## 🎓 Education
 
-- BEng Software Engineering — University of Westminster  
+- BEng.(Hons) Software Engineering — University of Westminster  
 - IT Diploma (Distinction) — Informatics Institute of Technology (IIT)
 
 ---
